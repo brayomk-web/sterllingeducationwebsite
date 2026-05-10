@@ -183,7 +183,7 @@ nav {
     height: auto;
     min-height: 480px;
     padding: 60px 20px;
-    background-image: url('../website ui images/study-desk.jpeg');
+    background-image: url('images/study-desk.jpeg');
     background-size: cover;
     background-position: center;
     position: relative;
